@@ -1,0 +1,181 @@
+  
+ * {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+/* nav section */
+.banner {
+    display:flex;
+    gap: 97px;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    padding: 30px 230px 0px 230px ;
+    
+}
+.banner-heading {
+    font-size: 45px;
+}
+.btn {
+    background-color: #f05879;
+    padding: 20px 45px;
+    border: 0;
+    color: white;
+    border-radius: 8px;
+}
+.banner-img {
+    width: 270px;
+    
+}
+h3 {
+    font-size: 35px;
+    
+}
+.banner-p {
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+padding: 15px 0px ;
+
+}
+/* main section featured */
+
+.fetured-text {
+    text-align: center;
+    padding: 100px;
+}
+.fetured-img {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.fetured-img1 {
+    width: 170px;
+    height: 250px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 20px 20px 0px 20px;
+
+}
+.fetured-img2{
+    width: 170px;
+    height: 250px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 20px 20px 0px 20px;
+}
+.fetured-img3{
+    width: 170px;
+    height: 250px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 20px 20px 0px 20px;
+}
+
+
+
+.flower-name {
+    text-decoration: underline;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 270px;
+    
+}
+
+
+/* Section deals */
+
+.for-deal {
+    display: flex;
+    gap: 50px;
+    margin-top: 100px ;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    padding: 30px 200px;
+    text-align: center;
+
+}
+.deal-img {
+    width: 170px;
+    height: 250px;
+    
+}
+.off {
+    color: #E55473;
+
+}
+
+/* section social */
+ .social-text {
+    padding: 100px 40px 0px;
+    text-align: center;
+}
+.social-img {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin:30px 100px;
+     
+
+}
+.image {
+    width: 215px;
+    height: 250px;
+}
+
+/* section last */
+.subscribe {
+    margin: 132px 250px;
+    height:300px;
+    
+    text-align: center;
+    align-items: center;
+    padding: 70px 50px;
+    
+    background-image: url('flower-shop-assignment/Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    
+    
+    
+}
+.input {
+    padding: 20px 400px 20px 20px;
+} 
+/* footer */
+ .pink {
+    color: #E55473;;
+}
+.foot {
+    background-color: black;
+    color: white;
+    padding-top:100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.layout {
+    font-size: 12px;
+}
+.right {
+    font-size: 13px;
+    color:rgba(255, 255, 255, 0.40);
+}  
+/* extra section */
+.bouquet-text {
+    text-align: center;
+    padding:100px;
+}
+.extra-img {
+    width: 400px;
+    
+    
+}
+.bouquet-img {
+    display: flex;
+    justify-content: center;
+}
